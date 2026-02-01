@@ -1,5 +1,6 @@
+streamlit==1.53.1
 pandas
-streamlit
 numpy
 matplotlib
-seaborn
+altair==4.2.2
+seabon
